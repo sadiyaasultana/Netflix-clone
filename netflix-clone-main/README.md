@@ -38,3 +38,7 @@ netflix-clone/
 └── README.md             # Project documentation
 </pre>
 
+
+Screenshot
+
+![Screenshot](togo.png)
