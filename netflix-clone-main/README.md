@@ -41,4 +41,4 @@ netflix-clone/
 
 Screenshot
 
-![Screenshot](togo.png)
+![Screenshot](https://github.com/sadiyaasultana/Netflix-clone/blob/main/togo.png)
